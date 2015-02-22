@@ -1,0 +1,7 @@
+{
+  "name": "nginject",
+  "version": "1.0.0",
+  "description": "nginject function for ng-annotate",
+  "main": "index.js",
+  "author": "Tiddo Langerak<tiddolangerak@gmail.com>"
+}
